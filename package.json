@@ -1,7 +1,7 @@
 {
-  "name": "nodebb-theme-quickstart",
-  "version": "0.0.0",
-  "description": "Enter a description here",
+  "name": "nodebb-theme-lite",
+  "version": "0.1.0",
+  "description": "the most simple theme",
   "main": "theme.less",
   "keywords": [
 
